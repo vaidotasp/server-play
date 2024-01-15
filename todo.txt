@@ -1,0 +1,4 @@
+- simple go http server
+GET: '/' -> '200: OK'
+GET: '/users' -> JSON list all users
+GET: '/coffee' -> JSON list all coffees
