@@ -1,4 +1,5 @@
 # server-play
+
 trying things with server
 
 Implement Redis, understand what problem it solves, what are alternatives of it
@@ -7,7 +8,7 @@ Implement Redis, understand what problem it solves, what are alternatives of it
 
 Just use SQLite file. It can be just persisted.
 
-#### Schema
+#### Schema//data modeling
 
 This is many-to-many relationship. Each user can have multiple fav beans and each bean can have multiple users that like them. So we need a associative table.
 

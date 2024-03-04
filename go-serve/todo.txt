@@ -1,0 +1,3 @@
+- Implement two endpoints in Node, retrieving data and writing data
+- Think about testing of the endpoints, how to do it
+- Think about associative table, basic 2 tables joined by a third!
