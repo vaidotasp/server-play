@@ -1,0 +1,15 @@
+Tables
+
+1. Users
+2. Coffee making methods
+3. Favorites (which user likes which coffee making method(s)) -> associative table
+
+One user can have multiple favorites
+One coffee making method can have multi users but ultimately it is singular
+
+User 1 -> method 1,2,3,4
+Method 2 -> User 1,2,3,4
+
+
+What is a constraint??
+explain foreign key thing like i'm five and use.
